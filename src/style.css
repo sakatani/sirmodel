@@ -1,0 +1,7 @@
+.instruction-left {
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    text-align: justify;
+    text-justify: auto;
+}
